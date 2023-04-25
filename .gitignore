@@ -1,0 +1,8 @@
+.classpath
+*.class
+jdk/
+.vsc/
+.idea/
+*.iml
+.DS_Store
+out/
